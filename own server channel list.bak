@@ -1,185 +1,181 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Hungama", group-title="Kids" , Hungama
-https://techstop.online/God/God123/18456
+#EXTINF:-1 tvg-id="hungamakids.in" tvg-name="Hungama kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Hungama_TV.svg" group-title="Kids", Hungama
+https://techstop.online/God/God123/18456 
 
 #EXTINF:-1 tvg-id="SuperHungama", group-title="Kids" , Super Hungama
-https://techstop.online/God/God123/66162
+https://techstop.online/God/God123/66162 
 
 #EXTINF:-1 tvg-id="DisneyHd", group-title="Kids" , Disney Channel Hd
-https://techstop.online/God/God123/19741
+https://techstop.online/God/God123/19741 
 
 #EXTINF:-1 tvg-id="CartoonNetworkhd", group-title="Kids" , CartoonNetwork Hd
-https://techstop.online/God/God123/117177
+https://techstop.online/God/God123/117177 
 
 #EXTINF:-1 tvg-id="EtvBalbharat", group-title="Kids" , Etv Bal Bharat
-https://techstop.online/God/God123/355286
+https://techstop.online/God/God123/355286 
 
 #EXTINF:-1 tvg-id="DisneyJunior", group-title="Kids" , DisneyJunior
-https://techstop.online/God/God123/207676
+https://techstop.online/God/God123/207676 
 
 #EXTINF:-1 tvg-id="SonyYayHindi", group-title="Kids" , Sony Yay Hindi
-http://agh2019.xyz:80/live/SOFIANBENAISSA/X7KJL94/72153.ts
+http://vocotv.pro:80/LUISCUEBAS/a77By4qaH5Vt/694102 
 
 #EXTINF:-1 tvg-id="SonyYayTamil", group-title="Kids" , Sony Yay Tamil
-http://agh2019.xyz:80/live/SOFIANBENAISSA/X7KJL94/72153.ts
+http://vocotv.pro:80/LUISCUEBAS/a77By4qaH5Vt/693745 
 
 #EXTINF:-1 tvg-id="SonyYayTelugu", group-title="Kids" , Sony Yay Telugu
-http://agh2019.xyz:80/live/SOFIANBENAISSA/X7KJL94/510464.ts
+http://vocotv.pro:80/LUISCUEBAS/a77By4qaH5Vt/693705 
 
-#EXTINF:-1 tvg-id="SonyYaymulti", group-title="Kids" , Sony Yay Multi
-http://103.182.170.32:8888/play/a04m
 
-#EXTINF:-1 tvg-id="biggbosstelugu", group-title="TELUGU" , BIGBOSS TELUGU
-https://techstop.online/God/God123/591439
 
-#EXTINF:-1 tvg-id="starmaamusic", group-title="TELUGU" , STAR MAA MUSIC
-https://techstop.online/God/God123/57772
+
+##############Telugu##############
 
 #EXTINF:-1 tvg-id="etvhd.in" tvg-name="Telugu: ETV (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="TELUGU",Telugu: ETV (4K).
-https://techstop.online/live/God/God123/98885.ts
+https://techstop.online/8zpo3GsVY7/beneficial2concern/98885  
 #EXTINF:-1 tvg-id="starmaahd.in" tvg-name="Telugu: STAR-MAA (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="TELUGU",Telugu: STAR-MAA (4K).
-https://techstop.online/live/God/God123/98886  
+https://techstop.online/8zpo3GsVY7/beneficial2concern/98886  
 #EXTINF:-1 tvg-id="starmaamovieshd.in" tvg-name="Telugu: STAR-MAA-MOVIE (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="TELUGU",Telugu: STAR-MAA-MOVIE (4K).
-https://techstop.online/live/God/God123/98887  
+https://techstop.online/8zpo3GsVY7/beneficial2concern/98887  
 #EXTINF:-1 tvg-id="zeeteluguhd.in" tvg-name="Telugu: ZEE-TELUGU (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="TELUGU",Telugu: ZEE-TELUGU (4K).
-https://techstop.online/live/God/God123/98894  
+https://techstop.online/8zpo3GsVY7/beneficial2concern/98894  
 #EXTINF:-1 tvg-id="zeecinemaluhd.in" tvg-name="Telugu: ZEE-CINEMALU (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="TELUGU",Telugu: ZEE-CINEMALU (4K).
-https://techstop.online/live/God/God123/98896  
+https://techstop.online/8zpo3GsVY7/beneficial2concern/98896  
 #EXTINF:-1 tvg-id="etvhd.in" tvg-name="Telugu: ETV (FHD)" tvg-logo="https://i.ibb.co/r3vmJq9/download-4.png" group-title="TELUGU",Telugu: ETV (FHD)
-https://techstop.online/live/God/God123/23312  
+https://techstop.online/8zpo3GsVY7/beneficial2concern/23312  
 #EXTINF:-1 tvg-id="starmaahd.in" tvg-name="Telugu: STAR-MAA (FHD)" tvg-logo="https://i.ibb.co/yn807cB/download-21.png" group-title="TELUGU",Telugu: STAR-MAA (FHD)
-https://techstop.online/live/God/God123/23313  
+https://techstop.online/8zpo3GsVY7/beneficial2concern/23313  
 #EXTINF:-1 tvg-id="starmaamovieshd.in" tvg-name="Telugu: STAR-MAA-MOVIE (FHD)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/Star_Maa_Movies.jpg/revision/latest/scale-to-width-down/340?cb=20180531131824" group-title="TELUGU",Telugu: STAR-MAA-MOVIE (FHD)
-https://techstop.online/live/God/God123/23314  
+https://techstop.online/8zpo3GsVY7/beneficial2concern/23314  
 #EXTINF:-1 tvg-id="geminitvhd.in" tvg-name="Telugu: GEMINI (FHD)" tvg-logo="https://i.ibb.co/SKJQvqR/Gemini-TV.png" group-title="TELUGU",Telugu: GEMINI (FHD)
-https://techstop.online/live/God/God123/23315  
+https://techstop.online/8zpo3GsVY7/beneficial2concern/23315  
 #EXTINF:-1 tvg-id="zeeteluguhd.in" tvg-name="Telugu: ZEE-TELUGU (FHD)" tvg-logo="https://i.ibb.co/9336p4j/download.png" group-title="TELUGU",Telugu: ZEE-TELUGU (FHD)
-https://techstop.online/live/God/God123/23316  
+https://techstop.online/8zpo3GsVY7/beneficial2concern/23316  
 #EXTINF:-1 tvg-id="zeecinemaluhd.in" tvg-name="Telugu: ZEE-CINEMALU (FHD)" tvg-logo="https://i.ibb.co/jhL5mtq/download.png" group-title="TELUGU",Telugu: ZEE-CINEMALU (FHD)
-https://techstop.online/live/God/God123/23317  
+https://techstop.online/8zpo3GsVY7/beneficial2concern/23317  
 #EXTINF:-1 tvg-id="geminimusic.in" tvg-name="Telugu: GEMINI MUSIC (4K)" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="TELUGU",Telugu: GEMINI MUSIC (4K)
-https://techstop.online/live/God/God123/23796  
+https://techstop.online/8zpo3GsVY7/beneficial2concern/23796  
 #EXTINF:-1 tvg-id="geminimovieshd.in" tvg-name="Telugu: GEMINI MOVIE (4K)" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="TELUGU",Telugu: GEMINI MOVIE (4K)
-https://techstop.online/live/God/God123/23797  
+https://techstop.online/8zpo3GsVY7/beneficial2concern/23797  
 #EXTINF:-1 tvg-id="starmaahd.in" tvg-name="Telugu: STAR MAA TV HD" tvg-logo="https://i.ibb.co/yn807cB/download-21.png" group-title="TELUGU",Telugu: STAR MAA TV HD
-https://techstop.online/live/God/God123/168  
+https://techstop.online/8zpo3GsVY7/beneficial2concern/168  
 #EXTINF:-1 tvg-id=  320" tvg-name="Telugu: TV 5 News" tvg-logo="https://i.ibb.co/F3y8k7t/download-22.png" group-title="TELUGU",Telugu: TV 5 News
-https://techstop.online/live/God/God123/170  
+https://techstop.online/8zpo3GsVY7/beneficial2concern/170  
 #EXTINF:-1 tvg-id="" tvg-name="Telugu: Gemini_Movies_HD" tvg-logo="https://i.ibb.co/VqQ1bBm/download-3.png" group-title="TELUGU",Telugu: Gemini_Movies_HD
-https://techstop.online/live/God/God123/212  
+https://techstop.online/8zpo3GsVY7/beneficial2concern/212  
 #EXTINF:-1 tvg-id=  363" tvg-name="Telugu: Gemini_Music_HD" tvg-logo="https://i.ibb.co/vkJr9Cn/download-1-1.png" group-title="TELUGU",Telugu: Gemini_Music_HD
-https://techstop.online/live/God/God123/213  
+https://techstop.online/8zpo3GsVY7/beneficial2concern/213  
 #EXTINF:-1 tvg-id="geminitvhd.in" tvg-name="Telugu: Gemini_TV_HD" tvg-logo="https://i.ibb.co/SKJQvqR/Gemini-TV.png" group-title="TELUGU",Telugu: Gemini_TV_HD
-https://techstop.online/live/God/God123/214  
+https://techstop.online/8zpo3GsVY7/beneficial2concern/214  
 #EXTINF:-1 tvg-id=  460" tvg-name="Telugu: Sony_BBC_Earth_HD_Telugu" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTT9j-h-4CiDAqFZA2ijrp4jj8dPM10fve8GA&usqp=CAU" group-title="TELUGU",Telugu: Sony_BBC_Earth_HD_Telugu
-https://techstop.online/live/God/God123/223  
+https://techstop.online/8zpo3GsVY7/beneficial2concern/223  
 #EXTINF:-1 tvg-id="v6telugu.in" tvg-name="Telugu:  V6_News" tvg-logo="https://i.ibb.co/pZ891Tj/download-4-1.png" group-title="TELUGU",Telugu:  V6_News
-https://techstop.online/live/God/God123/228  
+https://techstop.online/8zpo3GsVY7/beneficial2concern/228  
 #EXTINF:-1 tvg-id="" tvg-name="Telugu:  Sri_Venkateshwar_Bhakti" tvg-logo="https://i.ibb.co/c2Rn5ss/download-26.png" group-title="TELUGU",Telugu:  Sri_Venkateshwar_Bhakti
-https://techstop.online/live/God/God123/233  
+https://techstop.online/8zpo3GsVY7/beneficial2concern/233  
 #EXTINF:-1 tvg-id="abnandhrajyothy.in" tvg-name="Telugu:  ABN_Andhra_Jyothi" tvg-logo="https://i.ibb.co/9snympp/images-1.png" group-title="TELUGU",Telugu:  ABN_Andhra_Jyothi
-https://techstop.online/live/God/God123/234  
+https://techstop.online/8zpo3GsVY7/beneficial2concern/234  
 #EXTINF:-1 tvg-id=  160" tvg-name="Telugu: NTV TELUGU" tvg-logo="https://i.ibb.co/RDK2ZtJ/download-2-3.png" group-title="TELUGU",Telugu: NTV TELUGU
-https://techstop.online/live/God/God123/235  
+https://techstop.online/8zpo3GsVY7/beneficial2concern/235  
 #EXTINF:-1 tvg-id="etvplus.in" tvg-name="Telugu: ETV Plus" tvg-logo="https://i.ibb.co/7VdZqgH/download-2-2.png" group-title="TELUGU",Telugu: ETV Plus
-https://techstop.online/live/God/God123/242  
+https://techstop.online/8zpo3GsVY7/beneficial2concern/242  
 #EXTINF:-1 tvg-id="rajmusixtelugu.in" tvg-name="IN: Raj Music Telugu" tvg-logo="" group-title="TELUGU",IN: Raj Music Telugu
-https://techstop.online/live/God/God123/243  
+https://techstop.online/8zpo3GsVY7/beneficial2concern/243  
 #EXTINF:-1 tvg-id=  585" tvg-name="Telugu: Vissa TV" tvg-logo="https://i.ibb.co/1RMqwkk/download-3.png" group-title="TELUGU",Telugu: Vissa TV
-https://techstop.online/live/God/God123/244  
+https://techstop.online/8zpo3GsVY7/beneficial2concern/244  
 #EXTINF:-1 tvg-id="zeeteluguhd.in" tvg-name="Telugu: Zee Telugu HD" tvg-logo="https://i.ibb.co/9336p4j/download.png" group-title="TELUGU",Telugu: Zee Telugu HD
-https://techstop.online/live/God/God123/1605  
+https://techstop.online/8zpo3GsVY7/beneficial2concern/1605  
 #EXTINF:-1 tvg-id="ddsaptagiri.in" tvg-name="Telugu: DD Saptagiri" tvg-logo="https://i.ibb.co/Lk5p3Zc/download-27.png" group-title="TELUGU",Telugu: DD Saptagiri
-https://techstop.online/live/God/God123/4053  
+https://techstop.online/8zpo3GsVY7/beneficial2concern/4053  
 #EXTINF:-1 tvg-id=  957" tvg-name="Telugu: STAR MAA MOVIES HD" tvg-logo="https://i.ibb.co/72grYNk/Star-maa-logo-2023.png" group-title="TELUGU",Telugu: STAR MAA MOVIES HD
-https://techstop.online/live/God/God123/9015  
+https://techstop.online/8zpo3GsVY7/beneficial2concern/9015  
 #EXTINF:-1 tvg-id=  636" tvg-name="Telugu: Zee Cinemalu HD" tvg-logo="https://i.ibb.co/jhL5mtq/download.png" group-title="TELUGU",Telugu: Zee Cinemalu HD
-https://techstop.online/live/God/God123/9016  
+https://techstop.online/8zpo3GsVY7/beneficial2concern/9016  
 #EXTINF:-1 tvg-id="etvhd.in" tvg-name="Telugu: Etv HD" tvg-logo="https://i.ibb.co/r3vmJq9/download-4.png" group-title="TELUGU",Telugu: Etv HD
-https://techstop.online/live/God/God123/9017  
+https://techstop.online/8zpo3GsVY7/beneficial2concern/9017  
 #EXTINF:-1 tvg-id=  840" tvg-name="Telugu: GEMINI COMEDY HD" tvg-logo="https://i.ibb.co/CQhttzT/download-25.png" group-title="TELUGU",Telugu: GEMINI COMEDY HD
-https://techstop.online/live/God/God123/9042  
+https://techstop.online/8zpo3GsVY7/beneficial2concern/9042  
 #EXTINF:-1 tvg-id=  954" tvg-name="Telugu: STAR MAA GOLD" tvg-logo="" group-title="TELUGU",Telugu: STAR MAA GOLD
-https://techstop.online/live/God/God123/9043  
+https://techstop.online/8zpo3GsVY7/beneficial2concern/9043  
 #EXTINF:-1 tvg-id=  361" tvg-name="Telugu: GEMINI LIFE HD" tvg-logo="https://i.ibb.co/vXYWqvD/download-24.png" group-title="TELUGU",Telugu: GEMINI LIFE HD
-https://techstop.online/live/God/God123/9044  
+https://techstop.online/8zpo3GsVY7/beneficial2concern/9044  
 #EXTINF:-1 tvg-id=  1341" tvg-name="Telugu: ETV Cinema (4K)" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="TELUGU",Telugu: ETV Cinema (4K)
-https://techstop.online/live/God/God123/9045  
+https://techstop.online/8zpo3GsVY7/beneficial2concern/9045  
 #EXTINF:-1 tvg-id=  146" tvg-name="Telugu: ETV AndhraPradesh" tvg-logo="https://i.ibb.co/r3vmJq9/download-4.png" group-title="TELUGU",Telugu: ETV AndhraPradesh
-https://techstop.online/live/God/God123/9046  
+https://techstop.online/8zpo3GsVY7/beneficial2concern/9046  
 #EXTINF:-1 tvg-id=  11" tvg-name="Telugu: TV9 NEWS HD" tvg-logo="https://i.ibb.co/N3t  x/download-3-2.png" group-title="TELUGU",Telugu: TV9 NEWS HD
-https://techstop.online/live/God/God123/9047  
+https://techstop.online/8zpo3GsVY7/beneficial2concern/9047  
 #EXTINF:-1 tvg-id=  596" tvg-name="Telugu: Sakshi TV (News)" tvg-logo="https://i.ibb.co/DwR6K3W/download-28.png" group-title="TELUGU",Telugu: Sakshi TV (News)
-https://techstop.online/live/God/God123/9048  
+https://techstop.online/8zpo3GsVY7/beneficial2concern/9048  
 #EXTINF:-1 tvg-id=  49" tvg-name="Telugu: T News HD" tvg-logo="https://i.ibb.co/1Ttjk2f/download-20.png" group-title="TELUGU",Telugu: T News HD
-https://techstop.online/live/God/God123/9049  
+https://techstop.online/8zpo3GsVY7/beneficial2concern/9049  
 #EXTINF:-1 tvg-id=  83" tvg-name="Telugu: ETV Telangana" tvg-logo="https://i.ibb.co/wrtbTfN/download-19.png" group-title="TELUGU",Telugu: ETV Telangana
-https://techstop.online/live/God/God123/9050  
+https://techstop.online/8zpo3GsVY7/beneficial2concern/9050  
 #EXTINF:-1 tvg-id=  268" tvg-name="Telugu: ETV Life" tvg-logo="" group-title="TELUGU",Telugu: ETV Life
-https://techstop.online/live/God/God123/9052  
+https://techstop.online/8zpo3GsVY7/beneficial2concern/9052  
 #EXTINF:-1 tvg-id="etvabhiruchi.in" tvg-name="Telugu: ETV Abhiruchi" tvg-logo="https://i.ibb.co/nr1Kz3J/download-5.png" group-title="TELUGU",Telugu: ETV Abhiruchi
-https://techstop.online/live/God/God123/9053  
+https://techstop.online/8zpo3GsVY7/beneficial2concern/9053  
 #EXTINF:-1 tvg-id="svbc.in" tvg-name="Telugu: SVBC HD" tvg-logo="https://i.ibb.co/qjCHLvw/download-2.png" group-title="TELUGU",Telugu: SVBC HD
-https://techstop.online/live/God/God123/9054  
+https://techstop.online/8zpo3GsVY7/beneficial2concern/9054  
 #EXTINF:-1 tvg-id="bhaktitv.in" tvg-name="Telugu: BHAKTI TV" tvg-logo="https://i.ibb.co/XbJL5xt/download-1-1.png" group-title="TELUGU",Telugu: BHAKTI TV
-https://techstop.online/live/God/God123/34581  
+https://techstop.online/8zpo3GsVY7/beneficial2concern/34581  
 #EXTINF:-1 tvg-id=  430" tvg-name="TELUGU:  RAJ NEWS" tvg-logo="https://i.ibb.co/xMfFBH4/download-2.png" group-title="TELUGU",TELUGU:  RAJ NEWS
-https://techstop.online/live/God/God123/52504  
+https://techstop.online/8zpo3GsVY7/beneficial2concern/52504  
 #EXTINF:-1 tvg-id=  389" tvg-name="TELUGU: Star Maa Music" tvg-logo="" group-title="TELUGU",TELUGU: Star Maa Music
-https://techstop.online/live/God/God123/57772  
+https://techstop.online/8zpo3GsVY7/beneficial2concern/57772  
 #EXTINF:-1 tvg-id="" tvg-name="24/7: Telugu_2022_2021_Collection_vol_1" tvg-logo="https://img.freepik.com/premium-vector/24hr-services-with-clock-scale_66219-761.jpg?w=2000" group-title="TELUGU MOVIES 24/7",24/7: Telugu_2022_2021_Collection_vol_1
-https://techstop.online/live/God/God123/121374 
+https://techstop.online/8zpo3GsVY7/beneficial2concern/121374 
 #EXTINF:-1 tvg-id="" tvg-name="TELUGU-MOVIES 1 HD" tvg-logo="" group-title="TELUGU MOVIES 24/7",TELUGU-MOVIES 1 HD
-https://techstop.online/live/God/God123/136457 
+https://techstop.online/8zpo3GsVY7/beneficial2concern/136457 
 #EXTINF:-1 tvg-id="" tvg-name="TELUGU-MOVIES 2 HD" tvg-logo="" group-title="TELUGU MOVIES 24/7",TELUGU-MOVIES 2 HD
-https://techstop.online/live/God/God123/136458 
+https://techstop.online/8zpo3GsVY7/beneficial2concern/136458 
 #EXTINF:-1 tvg-id="" tvg-name="TELUGU-MOVIES 3 HD" tvg-logo="" group-title="TELUGU MOVIES 24/7",TELUGU-MOVIES 3 HD
-https://techstop.online/live/God/God123/136459 
+https://techstop.online/8zpo3GsVY7/beneficial2concern/136459 
 #EXTINF:-1 tvg-id="" tvg-name="TELUGU-MOVIES 4 HD" tvg-logo="" group-title="TELUGU MOVIES 24/7",TELUGU-MOVIES 4 HD
-https://techstop.online/live/God/God123/136460 
+https://techstop.online/8zpo3GsVY7/beneficial2concern/136460 
 #EXTINF:-1 tvg-id="" tvg-name="TELUGU-EROSNOW MOVIES 1 HD" tvg-logo="" group-title="TELUGU MOVIES 24/7",TELUGU-EROSNOW MOVIES 1 HD
-https://techstop.online/live/God/God123/136461 
+https://techstop.online/8zpo3GsVY7/beneficial2concern/136461 
 #EXTINF:-1 tvg-id="" tvg-name="TELUGU-CLASSIC MOVIES 1 HD" tvg-logo="" group-title="TELUGU MOVIES 24/7",TELUGU-CLASSIC MOVIES 1 HD
-https://techstop.online/live/God/God123/136462 
+https://techstop.online/8zpo3GsVY7/beneficial2concern/136462 
 #EXTINF:-1 tvg-id="" tvg-name="TELUGU-CLASSIC MOVIES 2 HD" tvg-logo="" group-title="TELUGU MOVIES 24/7",TELUGU-CLASSIC MOVIES 2 HD
-https://techstop.online/live/God/God123/136463 
+https://techstop.online/8zpo3GsVY7/beneficial2concern/136463 
 #EXTINF:-1 tvg-id="" tvg-name="TELUGU-LATTEST MOVIES 1 HD" tvg-logo="" group-title="TELUGU MOVIES 24/7",TELUGU-LATTEST MOVIES 1 HD
-https://techstop.online/live/God/God123/136464 
+https://techstop.online/8zpo3GsVY7/beneficial2concern/136464 
 #EXTINF:-1 tvg-id="" tvg-name="TELUGU-LATTEST MOVIES 2 HD" tvg-logo="" group-title="TELUGU MOVIES 24/7",TELUGU-LATTEST MOVIES 2 HD
-https://techstop.online/live/God/God123/136465 
+https://techstop.online/8zpo3GsVY7/beneficial2concern/136465 
 #EXTINF:-1 tvg-id="" tvg-name="TELUGU-ACTION DRAMA MOVIES HD" tvg-logo="" group-title="TELUGU MOVIES 24/7",TELUGU-ACTION DRAMA MOVIES HD
-https://techstop.online/live/God/God123/136466 
+https://techstop.online/8zpo3GsVY7/beneficial2concern/136466 
 #EXTINF:-1 tvg-id="" tvg-name="TELUGU-COMEDY MOVIES HD" tvg-logo="" group-title="TELUGU MOVIES 24/7",TELUGU-COMEDY MOVIES HD
-https://techstop.online/live/God/God123/136467 
+https://techstop.online/8zpo3GsVY7/beneficial2concern/136467 
 #EXTINF:-1 tvg-id="" tvg-name="TELUGU-ACTION CRIME MOVIES HD" tvg-logo="" group-title="TELUGU MOVIES 24/7",TELUGU-ACTION CRIME MOVIES HD
-https://techstop.online/live/God/God123/136468 
+https://techstop.online/8zpo3GsVY7/beneficial2concern/136468 
 #EXTINF:-1 tvg-id="" tvg-name="TELUGU-ACTION THRILLER MOVIES HD" tvg-logo="" group-title="TELUGU MOVIES 24/7",TELUGU-ACTION THRILLER MOVIES HD
-https://techstop.online/live/God/God123/136469 
+https://techstop.online/8zpo3GsVY7/beneficial2concern/136469 
 #EXTINF:-1 tvg-id="" tvg-name="TELUGU-THRILLER MOVIES HD" tvg-logo="" group-title="TELUGU MOVIES 24/7",TELUGU-THRILLER MOVIES HD
-https://techstop.online/live/God/God123/136470 
+https://techstop.online/8zpo3GsVY7/beneficial2concern/136470 
 #EXTINF:-1 tvg-id="" tvg-name="TELUGU-ROMANCE MOVIES HD" tvg-logo="" group-title="TELUGU MOVIES 24/7",TELUGU-ROMANCE MOVIES HD
-https://techstop.online/live/God/God123/136471 
+https://techstop.online/8zpo3GsVY7/beneficial2concern/136471 
 #EXTINF:-1 tvg-id="" tvg-name="TELUGU-MYSTERY MOVIES HD" tvg-logo="" group-title="TELUGU MOVIES 24/7",TELUGU-MYSTERY MOVIES HD
-https://techstop.online/live/God/God123/136472 
+https://techstop.online/8zpo3GsVY7/beneficial2concern/136472 
 #EXTINF:-1 tvg-id="" tvg-name="TELUGU-COMEDY ROMANCE MOVES HD" tvg-logo="" group-title="TELUGU MOVIES 24/7",TELUGU-COMEDY ROMANCE MOVES HD
-https://techstop.online/live/God/God123/136473 
+https://techstop.online/8zpo3GsVY7/beneficial2concern/136473 
 #EXTINF:-1 tvg-id="" tvg-name="TELUGU-COMEDY DRAMA MOVIES HD" tvg-logo="" group-title="TELUGU MOVIES 24/7",TELUGU-COMEDY DRAMA MOVIES HD
-https://techstop.online/live/God/God123/136474 
+https://techstop.online/8zpo3GsVY7/beneficial2concern/136474 
 #EXTINF:-1 tvg-id="" tvg-name="TELUGU-CRIME MOVIES HD" tvg-logo="" group-title="TELUGU MOVIES 24/7",TELUGU-CRIME MOVIES HD
-https://techstop.online/live/God/God123/136475 
+https://techstop.online/8zpo3GsVY7/beneficial2concern/136475 
 #EXTINF:-1 tvg-id="" tvg-name="TELUGU-CRIME DRAMA MOVIES HD" tvg-logo="" group-title="TELUGU MOVIES 24/7",TELUGU-CRIME DRAMA MOVIES HD
-https://techstop.online/live/God/God123/136476 
+https://techstop.online/8zpo3GsVY7/beneficial2concern/136476 
 #EXTINF:-1 tvg-id="" tvg-name="TELUGU-DRAMA MOVIES HD" tvg-logo="" group-title="TELUGU MOVIES 24/7",TELUGU-DRAMA MOVIES HD
-https://techstop.online/live/God/God123/136477 
+https://techstop.online/8zpo3GsVY7/beneficial2concern/136477 
 #EXTINF:-1 tvg-id="" tvg-name="TELUGU-DRAMA ROMANCE MOVIES HD" tvg-logo="" group-title="TELUGU MOVIES 24/7",TELUGU-DRAMA ROMANCE MOVIES HD
-https://techstop.online/live/God/God123/136478 
+https://techstop.online/8zpo3GsVY7/beneficial2concern/136478 
 #EXTINF:-1 tvg-id="" tvg-name="TELUGU-DRAMA THRILLER MOVIES HD" tvg-logo="" group-title="TELUGU MOVIES 24/7",TELUGU-DRAMA THRILLER MOVIES HD
-https://techstop.online/live/God/God123/136479 
+https://techstop.online/8zpo3GsVY7/beneficial2concern/136479 
 #EXTINF:-1 tvg-id="" tvg-name="TELUGU-FANTASY MOVIES HD" tvg-logo="" group-title="TELUGU MOVIES 24/7",TELUGU-FANTASY MOVIES HD
-https://techstop.online/live/God/God123/136480 
+https://techstop.online/8zpo3GsVY7/beneficial2concern/136480 
 #EXTINF:-1 tvg-id="" tvg-name="TELUGU-HORROR MOVIES HD" tvg-logo="" group-title="TELUGU MOVIES 24/7",TELUGU-HORROR MOVIES HD
-https://techstop.online/live/God/God123/136481 
+https://techstop.online/8zpo3GsVY7/beneficial2concern/136481 
 #EXTINF:-1 tvg-id="" tvg-name="TELUGU-HORROR THRILLER MOVIES HD" tvg-logo="" group-title="TELUGU MOVIES 24/7",TELUGU-HORROR THRILLER MOVIES HD
-https://techstop.online/live/God/God123/136482 
+https://techstop.online/8zpo3GsVY7/beneficial2concern/136482 
 #EXTINF:-1 tvg-id="" tvg-name="TELUGU-MUSICAL MOVIES HD" tvg-logo="" group-title="TELUGU MOVIES 24/7",TELUGU-MUSICAL MOVIES HD
-https://techstop.online/live/God/God123/136483 
+https://techstop.online/8zpo3GsVY7/beneficial2concern/136483 
