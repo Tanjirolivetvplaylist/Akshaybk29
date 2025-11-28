@@ -415,3 +415,6 @@ https://techstop.online:443/8zpo3GsVY7/beneficial2concern/144636
 https://techstop.online:443/8zpo3GsVY7/beneficial2concern/153205 
 #EXTINF:-1 tvg-id="ts968" tvg-name="TAMIL: News Tamil 24x7" tvg-logo="https://www.lyngsat.com/logo/tv/nn/news-tamil-24x7-in.png" group-title="TAMIL",TAMIL: News Tamil 24x7
 https://techstop.online:443/8zpo3GsVY7/beneficial2concern/160589 
+
+#EXTINF:-1 tvg-id="sonyyay.in" tvg-name="Sony Yay multi" tvg-logo="" group-title="Kids", Sony Yay (multi) 
+http://66.102.120.18:8000/play/a00s/index.m3u8
