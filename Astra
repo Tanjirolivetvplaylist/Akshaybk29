@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="disneychannel.in" tvg-name="Disney channel" tvg-logo="" group-title="Kids", Disney channel mutli
+http://103.162.148.244:8086/play/a0p6/index.m3u8
