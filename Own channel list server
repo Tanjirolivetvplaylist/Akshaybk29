@@ -11,9 +11,6 @@ https://servertvhub.site/jio/app/live.php?id=2258
 #EXTINF:-1 tvg-id="superhungama.in" tvg-name="Super Hungama" tvg-logo="" group-title="Kids", Super Hungama
 https://techstop.online/8zpo3GsVY7/beneficial2concern/66162 
 
-#EXTINF:-1 tvg-id="disneyhd.in" tvg-name="Disney Hd" tvg-logo="" group-title="Kids", Disney Hd
-https://techstop.online/8zpo3GsVY7/beneficial2concern/8052
-
 #EXTINF:-1 tvg-id="cartoonnetworkhd.in" tvg-name="Cartoon Network Hd" tvg-logo="" group-title="Kids", Cartoon Network Hd
 https://techstop.online/8zpo3GsVY7/beneficial2concern/117177 
 
@@ -34,6 +31,9 @@ https://fifabdm.xyz/GOLDDD/play.php?id=277115 || RANAPK
 
 #EXTINF:-1 tvg-id="disneychannel.in" tvg-name="Disney channel" tvg-logo="" group-title="Kids", Disney channel mutli
 http://103.162.148.244:8086/play/a0p6
+
+#EXTINF:-1 tvg-id="disneyhd.in" tvg-name="Disney hd" tvg-logo="" group-title="Kids", Disney hd
+https://techstop.online/8zpo3GsVY7/beneficial2concern/8052 
 
 
 ##############Telugu##############
