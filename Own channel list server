@@ -27,6 +27,9 @@ https://techstop.online/8zpo3GsVY7/beneficial2concern/19741
 #EXTINF:-1 tvg-id="sonyyay.in" tvg-name="sony yay telugu" tvg-logo="" group-title="Kids", sony yay telugu
 https://cf.business-cdn-8k.su/live/976fc2f584/56a753b687/441041.ts
 
+#EXTINF:-1 tvg-id="sonyyay.in" tvg-name="sony yay tamil" tvg-logo="" group-title="Kids", sony yay tamil
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0B:C1:75&stream=908587&extension=ts&play
+
 ##############Telugu##############
 
 #EXTINF:-1 tvg-id="etvhd.in" tvg-name="Telugu: ETV (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="TELUGU",Telugu: ETV (4K).
