@@ -1,0 +1,119 @@
+#EXTM3U
+#EXTINF:-1,┃TELEGU┃ ABN NEWS TV
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0B:C1:75&stream=373506&extension=ts&play
+#EXTINF:-1,┃TELEGU┃ CVR NEWS
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0B:C1:75&stream=373505&extension=ts&play
+#EXTINF:-1,┃TELEGU┃ BHAKTI TV
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0B:C1:75&stream=373504&extension=ts&play
+#EXTINF:-1,┃TELEGU┃ DISCOVERY WORLD HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0B:C1:75&stream=373503&extension=ts&play_token=hB85tThmid
+#EXTINF:-1,┃TELEGU┃ ETV CINEMA
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0B:C1:75&stream=373502&extension=ts&play_token=J5hwaqhOjf
+#EXTINF:-1,┃TELEGU┃ ETV HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0B:C1:75&stream=373501&extension=ts&play_token=7wcjmEgtx9
+#EXTINF:-1,┃TELEGU┃ GEMINI HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0B:C1:75&stream=373500&extension=ts&play_token=gg8aeFcX2G
+#EXTINF:-1,┃TELEGU┃ GEMINI MOVIES HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0B:C1:75&stream=373499&extension=ts&play_token=ADwUVbndw0
+#EXTINF:-1,┃TELEGU┃ GEMINI COMEDY
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0B:C1:75&stream=373498&extension=ts&play_token=06dkEd0YcE
+#EXTINF:-1,┃TELEGU┃ HISTORY 18 TELUGU HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0B:C1:75&stream=373497&extension=ts&play_token=ct9SS2UCfz
+#EXTINF:-1,┃TELEGU┃ STAR MAA MOVIES HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0B:C1:75&stream=373496&extension=ts&play_token=xVVgvwfpKB
+#EXTINF:-1,┃TELEGU┃ NATIONAL GEOGRAPHIC HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0B:C1:75&stream=373495&extension=ts&play_token=gfpYfZJIqd
+#EXTINF:-1,┃TELEGU┃ RAJ MUSIC TELUGU
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0B:C1:75&stream=373494&extension=ts&play_token=AS3wUkIiJP
+#EXTINF:-1,┃TELEGU┃ RAJ NEWS TELUGU
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0B:C1:75&stream=373493&extension=ts&play_token=CqXYusZ9dY
+#EXTINF:-1,┃TELEGU┃ SONY BBC EARTH HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0B:C1:75&stream=373492&extension=ts&play_token=gU1b0DGtid
+#EXTINF:-1,┃TELEGU┃ STAR MAA GOLD HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0B:C1:75&stream=373491&extension=ts&play_token=TZbDTs9SK3
+#EXTINF:-1,┃TELEGU┃ STAR MAA HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0B:C1:75&stream=373490&extension=ts&play_token=NEPo8lepOu
+#EXTINF:-1,┃TELEGU┃ TATA SKY TELUGU CINEMA HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0B:C1:75&stream=373489&extension=ts&play_token=uLRrG9HC20
+#EXTINF:-1,┃TELEGU┃ TV9 NEWS
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0B:C1:75&stream=373488&extension=ts&play_token=ndbFX3BG72
+#EXTINF:-1,┃TELEGU┃ V6 NEWS
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0B:C1:75&stream=373487&extension=ts&play_token=AGp3IdRFQK
+#EXTINF:-1,┃TELEGU┃ ETV PLUS
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0B:C1:75&stream=373486&extension=ts&play_token=VZzqFmZa27
+#EXTINF:-1,┃TELEGU┃ ZEE CINEMALU HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0B:C1:75&stream=373485&extension=ts&play_token=0LzxfpaXX7
+#EXTINF:-1,┃TELEGU┃ ZEE TELUGU HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0B:C1:75&stream=373484&extension=ts&play_token=cPIpBL3LjW
+#EXTINF:-1,┃TELEGU┃ GEMINI MUSIC
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0B:C1:75&stream=373483&extension=ts&play_token=4eNP1VHyO5
+#EXTINF:-1,┃TELEGU┃ GEMINI LIFE
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0B:C1:75&stream=373482&extension=ts&play_token=hMHG4zcd4N
+#EXTINF:-1,┃TELEGU┃ ETV LIFE
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0B:C1:75&stream=373481&extension=ts&play_token=2rvjcmIFxS
+#EXTINF:-1,┃TELEGU┃ TV5 NEWS
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0B:C1:75&stream=373480&extension=ts&play_token=Pmb3sbEvPx
+#EXTINF:-1,┃TELEGU┃ 10 TV
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0B:C1:75&stream=373478&extension=ts&play_token=rX3c3cAs9Y
+#EXTINF:-1,┃TELEGU┃ DD SAPTAGIRI
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0B:C1:75&stream=373477&extension=ts&play_token=hTjqm8i3uT
+#EXTINF:-1,┃TELEGU┃ VANITHA TV
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0B:C1:75&stream=373476&extension=ts&play_token=chYp4oVa13
+#EXTINF:-1,┃TELEGU┃ VISSA TV
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0B:C1:75&stream=373475&extension=ts&play_token=1fevSHYdNP
+#EXTINF:-1,┃TELEGU┃  STAR MAA
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0B:C1:75&stream=373474&extension=ts&play_token=5CQ6FhmlIS
+#EXTINF:-1,┃TELEGU┃ SAKSHI TV
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0B:C1:75&stream=373473&extension=ts&play_token=s9E8zOA7Ld
+#EXTINF:-1,┃INDIAN┃TELUGU┃ TOP MOVIES HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0B:C1:75&stream=734410&extension=ts&play_token=jgkRMykJNB
+#EXTINF:-1,┃INDIAN┃TELUGU┃ DUBBED 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0B:C1:75&stream=734409&extension=ts&play_token=o6yvMnryAq
+#EXTINF:-1,┃INDIAN┃TELUGU┃ LATEST CINEMA 2 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0B:C1:75&stream=734408&extension=ts&play_token=zhdTQQEbYU
+#EXTINF:-1,┃INDIAN┃TELUGU┃ EROSNOW CLASSIC CINEMA 1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0B:C1:75&stream=734407&extension=ts&play_token=2Oqhi3CmnD
+#EXTINF:-1,┃INDIAN┃TELUGU┃ CLASSIC CINEMA 1 SD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0B:C1:75&stream=734406&extension=ts&play_token=WPkcSmvIJu
+#EXTINF:-1,┃INDIAN┃TELUGU┃ COMEDY ROMANCE CINEMA HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0B:C1:75&stream=734405&extension=ts&play_token=bD6k0u1vFa
+#EXTINF:-1,┃INDIAN┃TELUGU┃ COMEDY CLIP
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0B:C1:75&stream=734404&extension=ts&play_token=cjKClXKJGU
+#EXTINF:-1,┃INDIAN┃TELUGU┃ CINEMA 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0B:C1:75&stream=734403&extension=ts&play_token=0jha4X0EAb
+#EXTINF:-1,┃INDIAN┃TELUGU┃ CINEMA 4 SD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0B:C1:75&stream=734402&extension=ts&play_token=jYxvARidhu
+#EXTINF:-1,┃INDIAN┃TELUGU┃ CINEMA 3 SD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0B:C1:75&stream=734401&extension=ts&play_token=fSYeaI6edo
+#EXTINF:-1,┃INDIAN┃TELUGU┃ CINEMA 2 SD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0B:C1:75&stream=734400&extension=ts&play_token=tTyxVaIdPm
+#EXTINF:-1,┃INDIAN┃TELUGU┃ LATEST CINEMA 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0B:C1:75&stream=734399&extension=ts&play_token=6vaDUAU4AF
+#EXTINF:-1,┃INDIAN┃TELUGU┃ CLASSIC CINEMA 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0B:C1:75&stream=734398&extension=ts&play_token=o59rJALNEi
+#EXTINF:-1,┃INDIAN┃TELUGU┃ CLASSIC CINEMA 2 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0B:C1:75&stream=734397&extension=ts&play_token=KCye3YcJBW
+#EXTINF:-1,┃INDIAN┃TELUGU┃ ROMANCE CINEMA HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0B:C1:75&stream=734396&extension=ts&play_token=ac9COo8I4C
+#EXTINF:-1,┃INDIAN┃TELUGU┃ THRILLER CINEMA HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0B:C1:75&stream=734395&extension=ts&play_token=zfLwTAhL6A
+#EXTINF:-1,┃INDIAN┃TELUGU┃ CRIME CINEMA HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0B:C1:75&stream=734394&extension=ts&play_token=6kN22W2dSU
+#EXTINF:-1,┃INDIAN┃TELUGU┃ DRAMA THRILLER CINEMA HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0B:C1:75&stream=734393&extension=ts&play_token=VmvcVrhKMt
+#EXTINF:-1,┃INDIAN┃TELUGU┃ COMEDY DRAMA CINEMA HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0B:C1:75&stream=734392&extension=ts&play_token=IbHzko2Fye
+#EXTINF:-1,┃INDIAN┃TELUGU┃ DRAMA ROMANCE CINEMA HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0B:C1:75&stream=734391&extension=ts&play_token=dMPPFGx7Np
+#EXTINF:-1,┃INDIAN┃TELUGU┃ MYSTERY CINEMA HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0B:C1:75&stream=734390&extension=ts&play_token=xinSGqjrwT
+#EXTINF:-1,┃INDIAN┃TELUGU┃ CRIME DRAMA CINEMA HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0B:C1:75&stream=734389&extension=ts&play_token=VTu56Pyf04
+#EXTINF:-1,┃INDIAN┃TELUGU┃ DRAMA CINEMA HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0B:C1:75&stream=734388&extension=ts&play_token=hutSmeBmuK
+#EXTINF:-1,┃INDIAN┃TELUGU┃ FAMILY CINEMA HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0B:C1:75&stream=734387&extension=ts&play
+#EXTINF:-1,┃INDIAN┃TELUGU┃ ACTION CINEMA HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0B:C1:75&stream=734386&extension=ts&play
+#EXTINF:-1,┃INDIAN┃TELUGU┃ SONGS HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0B:C1:75&stream=734385&extension=ts&play
